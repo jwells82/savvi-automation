@@ -5,9 +5,9 @@
 
   <testsuite name="validLogin"
     errors="0" failures="0" hostname="" id="" package="validLogin" skipped="0"
-    tests="2" time="17.60" timestamp="">
+    tests="2" time="14.90" timestamp="">
   
-    <testcase name="QO2J-297 Valid Login1" classname="validLogin" time="11.15" assertions="3">
+    <testcase name="QO2J-297 Valid Login1" classname="validLogin" time="7.384" assertions="3">
 
     
 
@@ -16,7 +16,7 @@
     
     </testcase>
   
-    <testcase name="QO2J-297 Valid Login2" classname="validLogin" time="6.450" assertions="3">
+    <testcase name="QO2J-297 Valid Login2" classname="validLogin" time="7.519" assertions="3">
 
     
 

@@ -3,7 +3,6 @@ let myCommands = {
         this.setValue('@email', email)
         this.setValue('@password', password)
         this.click('@login')
-        this.click('@logout')
         return this
     }
 }

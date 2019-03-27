@@ -1,8 +1,8 @@
-14:23:07.036 INFO [GridLauncherV3.parse] - Selenium server version: 3.141.59, revision: e82be7d358
-14:23:07.302 INFO [GridLauncherV3.lambda$buildLaunchers$3] - Launching a standalone Selenium Server on port 4444
-2019-03-27 14:23:07.515:INFO::main: Logging initialized @1247ms to org.seleniumhq.jetty9.util.log.StdErrLog
-14:23:08.757 INFO [WebDriverServlet.<init>] - Initialising WebDriverServlet
-14:23:09.088 ERROR [BaseServer.start] - Port 4444 is busy, please choose a free port and specify it using -port option
+16:36:21.296 INFO [GridLauncherV3.parse] - Selenium server version: 3.141.59, revision: e82be7d358
+16:36:21.677 INFO [GridLauncherV3.lambda$buildLaunchers$3] - Launching a standalone Selenium Server on port 4444
+2019-03-27 16:36:22.008:INFO::main: Logging initialized @1925ms to org.seleniumhq.jetty9.util.log.StdErrLog
+16:36:23.238 INFO [WebDriverServlet.<init>] - Initialising WebDriverServlet
+16:36:23.531 ERROR [BaseServer.start] - Port 4444 is busy, please choose a free port and specify it using -port option
 Exception in thread "main" java.lang.RuntimeException: java.net.BindException: Address already in use
 	at org.openqa.selenium.grid.server.BaseServer.start(BaseServer.java:221)
 	at org.openqa.selenium.remote.server.SeleniumServer.boot(SeleniumServer.java:131)
