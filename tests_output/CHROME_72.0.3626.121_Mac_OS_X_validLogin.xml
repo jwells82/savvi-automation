@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<testsuites errors="0"
+            failures="0"
+            tests="2">
+
+  <testsuite name="validLogin"
+    errors="0" failures="0" hostname="" id="" package="validLogin" skipped="0"
+    tests="2" time="7.929" timestamp="">
+  
+    <testcase name="QO2J-297 Valid Login1" classname="validLogin" time="5.081" assertions="2">
+
+    
+
+    
+    </testcase>
+  
+    <testcase name="QO2J-297 Valid Login2" classname="validLogin" time="2.848" assertions="2">
+
+    
+
+    
+    </testcase>
+  
+
+  
+
+  
+  </testsuite>
+</testsuites>
